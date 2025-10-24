@@ -42,10 +42,15 @@ Integrate with CSV or database (e.g., SQLite / PostgreSQL) for persistent storag
 🧑‍💻 Author
 
 Kuchani Vamshi
+
 📍 Python Learner & Data Analytics Enthusiast
+
 💼 LinkedIn Profile
+
 https://www.linkedin.com/in/kuchani-vamshi-14b356296/
+
 🌐 GitHub Profile
+
 https://github.com/
 
 #Python #MiniProject #StudentAnalyzer #Programming #DataHandling #EducationTech
