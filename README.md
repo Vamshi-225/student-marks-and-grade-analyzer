@@ -6,7 +6,7 @@ A simple and modular Python project designed to analyze and manage student perfo
 
 This program calculates total marks, averages, and grades for multiple students based on their subject-wise scores.
 
-📘 Project Overview
+📘 **Project Overview**
 
 The Student Marks and Grade Analyzer provides a basic system to store, process, and evaluate student marks efficiently.
 
